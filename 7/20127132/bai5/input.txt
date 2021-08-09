@@ -1,0 +1,45 @@
+Nguyen Thi Hong Anh,6 5 5
+Nguyen Le Nhu Binh,9 9 8
+Nguyen Ngoc Cau,6 7 8
+Ho Van Chuong,7 7 8
+Nguyen Thanh Dan,8 7 8
+Nguyen Van Du,9 8 9
+Phan Thi Dao,7 6 6
+Pham Ho Van Dat,4 4 5
+Vo Tien Dat,8 9 8
+Nguyen Ba Hieu,6 7 6
+Phan Thi Thanh Huyen,8 8 9
+Doan Van Khai,8 8 7
+Pham Huu Dang Khoa,8 7 9
+Dinh Nhu Khuyen,7 9 8
+Nguyen Thi Huong Lien,8 7 7
+Bach Thi Hoai My,6 7 8
+Nguyen Kim Ngan,7 8 9
+Tran Thi Nhu Ngoc,6 7 7
+Nguyen Le Thanh Nha,7 8 8
+Phan Tien Nhan,7 8 6
+Tran Ngoc Nhan,9 9 9
+Le Thi Y Nhi,6 6 6
+Huynh Thi Ngoc Nhu,7 8 8
+Tran Nhat Phap,8 9 9
+Ho Thi Thu Phuong,7 6 6
+Nguyen Huu Quang,7 8 8
+Tran Thi Quy,7 7 8
+Doan Dinh Thanh,9 9 7
+Le Thanh,6 8 8
+Nguyen Huu Thang,9 9 9
+Tran Thi Thanh Thuy,6 6 6
+Huynh Thi Bach Thuy,5 5 7
+Huynh Thi Thuy Tien,6 5 6
+Ho Lan Trinh,7 8 7
+Dao Anh Tuan,9 9 7
+Truong Thi Cam Van,8 9 9
+Ho Dac Vinh,9 9 9
+Phan Viet Vu,8 8 8
+Huynh Thi Thuy Tien,6 7 9
+Le Thi Y Nhi,6 8 8
+Doan Dinh Thanh,6 6 9
+Le Thanh,7 8 9
+Huynh Thi Thuy Tien,8 8 7
+Nguyen Le Thanh Nha,7 8 7
+Nguyen Ngoc Cau,7 7 5
